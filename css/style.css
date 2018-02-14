@@ -1,0 +1,11 @@
+.container{
+	margin:0 auto;
+	width: 960px;
+}
+
+section{
+	border: 1px solid #000;
+	height: 100px;
+	margin: 40px auto;
+	width: 400px;
+}
