@@ -64,3 +64,24 @@ h3::after{
 p{
 	text-align: center;
 }
+
+.foto img{
+/*	max-width:100%;
+ 	height:auto;*/
+
+ 	max-width:300px;
+    max-height:300px;
+    width: auto;
+    height: auto;
+    background-size: cover;
+    border-style: solid;
+
+}
+
+.foto2 img{
+	width:300px;
+	height:300px;
+	border-style: solid;
+	border-color: #0B6887;
+
+}
