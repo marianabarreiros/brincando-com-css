@@ -85,3 +85,27 @@ p{
 	border-color: #0B6887;
 
 }
+
+.tip::before{
+	content: "\261E";
+	margin-right: 10px;
+}
+
+blockquote {
+	color: #444;
+	font-style: italic;
+	text-align: center;
+}
+
+blockquote::before, blockquote::after {
+color: #000;
+font-size: 2em;
+}
+
+blockquote::before {
+content: "\201C";
+}
+
+blockquote::after {
+content: "\201D";
+}
