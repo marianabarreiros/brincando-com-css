@@ -91,6 +91,41 @@ p{
 	margin-right: 10px;
 }
 
+.relative{
+	background-color: #206989;
+	width: 40px;
+	height: 40px;
+	border-radius: 100%;
+	display: inline-block;
+	margin-right: 20px;
+
+}
+
+.relative:hover{
+	background-color: #007bff;
+}
+
+.fa{
+	padding-top: 7px;
+}
+
+.row{
+	text-align: center;
+}
+
+.social-media{
+	margin: 5px;
+    margin-top: 27px; 
+    padding-top: 31px;
+    font-size: 24px;
+    color: #FFF;
+
+}
+
+.social-media a{
+	color: #FFF;
+}
+
 blockquote {
 	color: #444;
 	font-style: italic;
@@ -109,3 +144,4 @@ content: "\201C";
 blockquote::after {
 content: "\201D";
 }
+
