@@ -160,8 +160,34 @@ p{
 }
 
 
+.button{
+	border: 2px solid white;
+    width: 118px;
+    height: 38px;
+    margin-left: 33px;
+}
 
+.button:hover{
+	border-color: #4377FA;
+}
 
+.button p:hover{
+	color: #4377FA;
+}
+.div-button{
+	/*border: 2px solid black;*/
+    width: 200px;
+    height: 200px;
+    background-color: black
+}
+
+#clique-me{
+
+    /*margin-bottom: 8px;*/
+    margin-top: 11px;
+    color: white;
+
+}
 
 blockquote {
 	color: #444;
