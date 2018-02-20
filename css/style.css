@@ -171,13 +171,17 @@ p{
 	border-color: #4377FA;
 }
 
-.button p:hover{
+/*#clique-me:hover{
 	color: #4377FA;
-}
+}*/
+
+/*.button p:hover{
+	color: #4377FA;
+}*/
 .div-button{
 	/*border: 2px solid black;*/
     width: 200px;
-    height: 200px;
+    height: 59px;
     background-color: black
 }
 
