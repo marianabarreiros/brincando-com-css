@@ -127,17 +127,41 @@ p{
 }
 
 .top{
-	background-color: linear-gradient(top, #4377FA, #0537B7);
+	background: linear-gradient(to top, #4377FA, #0537B7);
     font-weight: bold;
 	height: 50px;
 	line-height: 25px;
 	margin-bottom: 10px;
 	padding: 5px;
 	text-align: center;
-	width: 220px;
-    
-    
+	width: 220px;   
 }
+
+.right{
+	background: linear-gradient(to right, #4377FA, #0537B7);
+    font-weight: bold;
+	height: 50px;
+	line-height: 25px;
+	margin-bottom: 10px;
+	padding: 5px;
+	text-align: center;
+	width: 220px;   
+}
+
+.left{
+	background: linear-gradient(to left, #4377FA, #0537B7);
+    font-weight: bold;
+	height: 50px;
+	line-height: 25px;
+	margin-bottom: 10px;
+	padding: 5px;
+	text-align: center;
+	width: 220px;   
+}
+
+
+
+
 
 blockquote {
 	color: #444;
